@@ -2,7 +2,8 @@ from pytube import YouTube
 from pytube import Stream
 
 video_url = (
-    "https://www.youtube.com/watch?v=DBvZ2Iqmm3M",
+    "https://www.youtube.com/watch?v=",
+    "https://www.youtube.com/watch?v=",
 )
 download_path = r'DownloadedVideos/'
 
